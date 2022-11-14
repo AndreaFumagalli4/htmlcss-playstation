@@ -17,8 +17,20 @@ div#sony-logo img{
     width: 50%;
 }
 
+img#lens{
+    width: 50%;
+}
+
+li#lens_id{
+    text-align: center;
+}
+
+span#accedi{
+    padding: .5rem 1rem;
+    border-radius: 40px;
+}
+
 header nav{
-    background-color: aqua;
     height: 80px;
 }
 
