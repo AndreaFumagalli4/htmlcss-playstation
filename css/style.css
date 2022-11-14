@@ -22,7 +22,7 @@ div.my_square_jumbo{
 }
 
 main section{
-    padding-top: 3rem;
+    margin-top: 3rem;
 }
 
 div.my_square_game{
@@ -65,3 +65,7 @@ div.pp{
     background-color: yellow;
 }
 
+div.discount{
+    height: 175px;
+    background-color: coral;
+}
