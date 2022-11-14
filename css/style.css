@@ -56,3 +56,12 @@ div.play_four_product{
     height: 150px;
 }
 
+section#playstation-plus{
+    background-color: #bebcbb;
+}
+
+div.pp{
+    height: 200px;
+    background-color: yellow;
+}
+
