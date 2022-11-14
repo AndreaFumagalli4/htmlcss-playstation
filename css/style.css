@@ -21,11 +21,39 @@ div.my_square_jumbo{
     height: 400px;
 }
 
-section.games{
+main section{
     padding-top: 3rem;
 }
 
 div.my_square_game{
     background-color: lime;
     height: 150px;
+}
+
+div.my_title{
+    background-color: blue;
+    height: 70px;
+}
+
+div.my_ps_five{
+    height: 100px;
+    background-color: brown;
+}
+
+div.my_products{
+    background-color: magenta;
+    height: 70px;
+    width: calc((100% / 3) - 1rem);
+    margin: .5rem;
+}
+
+/* RESPONSIVE */
+
+/* medium */
+
+@media screen and (min-width: 768px){
+
+    div.my_products{
+        width: calc((100% / 5) - 1rem);
+    }
 }
