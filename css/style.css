@@ -36,19 +36,24 @@ header nav{
 
 /* css MAIN */
 
-div.my_square_jumbo{
-    background-color: magenta;
-    height: 400px;
+main>section{
+    padding-top: 2rem;
 }
 
-main section,
-footer section{
-    margin-top: 3rem;
+section#jumbo-top{
+    background-image: url("../img/jumbo-bg.png");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    height: 600px;
 }
 
-div.my_square_game{
-    background-color: lime;
-    height: 150px;
+button.buy_now{
+    background-color: #cd3d0f;
+    padding: .5rem 1rem;
+    border-radius: 40px;
+    border: none;
+    color: white;
 }
 
 div.my_title{
