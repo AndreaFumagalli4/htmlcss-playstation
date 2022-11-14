@@ -79,3 +79,7 @@ div.social-media{
     height: 100px;
     background-color: slateblue;
 }
+
+section#footer-bottom{
+    background-color: #00439c;
+}
