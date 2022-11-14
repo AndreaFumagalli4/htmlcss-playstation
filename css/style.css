@@ -9,6 +9,14 @@ section#sony{
     height: 50px;
 }
 
+div#sony-logo{
+    width: 200px;
+}
+
+div#sony-logo img{
+    width: 50%;
+}
+
 header nav{
     background-color: aqua;
     height: 80px;
