@@ -83,3 +83,9 @@ div.social-media{
 section#footer-bottom{
     background-color: #00439c;
 }
+
+div.foot{
+    height: 100px;
+    width: 50px;
+    background-color: magenta;
+}
