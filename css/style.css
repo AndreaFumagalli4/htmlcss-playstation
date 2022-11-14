@@ -21,7 +21,8 @@ div.my_square_jumbo{
     height: 400px;
 }
 
-main section{
+main section,
+footer section{
     margin-top: 3rem;
 }
 
@@ -72,4 +73,9 @@ div.discount{
 
 section#playstation-now{
     background-color: #161c3b;
+}
+
+div.social-media{
+    height: 100px;
+    background-color: slateblue;
 }
