@@ -35,6 +35,12 @@ div.my_title{
     height: 70px;
 }
 
+section#jumbotron-middle{
+    background-color: #1f1f1f;
+    padding-bottom: 1rem;
+    margin-top: 1rem;
+}
+
 div.my_ps_five{
     height: 100px;
     background-color: brown;
@@ -43,5 +49,10 @@ div.my_ps_five{
 div.my_products{
     background-color: magenta;
     height: 70px;
+}
+
+div.play_four_product{
+    background-color: red;
+    height: 150px;
 }
 
