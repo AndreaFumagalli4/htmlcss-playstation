@@ -12,5 +12,20 @@ section#sony{
 header nav{
     background-color: aqua;
     height: 80px;
-    position: fixed;
+}
+
+/* css MAIN */
+
+div.my_square_jumbo{
+    background-color: magenta;
+    height: 400px;
+}
+
+section.games{
+    padding-top: 3rem;
+}
+
+div.my_square_game{
+    background-color: lime;
+    height: 150px;
 }
