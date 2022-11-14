@@ -60,6 +60,10 @@ section.title div p{
     margin: 0;
 }
 
+section#playstation-five{
+    padding-top: 5rem;
+}
+
 section#playstation-five button{
     border: none;
     padding: .5rem 1rem;
