@@ -36,9 +36,6 @@ header nav{
 
 /* css MAIN */
 
-main>section{
-    padding-top: 2rem;
-}
 
 section#jumbo-top{
     background-image: url("../img/jumbo-bg.png");
@@ -56,9 +53,12 @@ button.buy_now{
     color: white;
 }
 
-div.my_title{
-    background-color: blue;
-    height: 70px;
+section.title{
+    text-align: center;
+}
+
+section.title div p{
+    margin: 0;
 }
 
 section#jumbotron-middle{
