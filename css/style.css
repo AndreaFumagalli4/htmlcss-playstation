@@ -43,17 +43,5 @@ div.my_ps_five{
 div.my_products{
     background-color: magenta;
     height: 70px;
-    width: calc((100% / 3) - 1rem);
-    margin: .5rem;
 }
 
-/* RESPONSIVE */
-
-/* medium */
-
-@media screen and (min-width: 768px){
-
-    div.my_products{
-        width: calc((100% / 5) - 1rem);
-    }
-}
