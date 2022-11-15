@@ -64,7 +64,8 @@ section#playstation-five{
     padding-top: 5rem;
 }
 
-section#playstation-five button{
+section#playstation-five button,
+section#playstation-four-market button{
     border: none;
     padding: .5rem 1rem;
     border-radius: 40px;
