@@ -84,21 +84,6 @@ section#jumbotron-middle section.games{
     color: white;
 }
 
-div.my_ps_five{
-    height: 100px;
-    background-color: brown;
-}
-
-div.my_products{
-    background-color: magenta;
-    height: 70px;
-}
-
-div.play_four_product{
-    background-color: red;
-    height: 150px;
-}
-
 section#playstation-plus{
     background-color: #bebcbb;
 }
@@ -106,11 +91,6 @@ section#playstation-plus{
 div.pp{
     height: 200px;
     background-color: yellow;
-}
-
-div.discount{
-    height: 175px;
-    background-color: coral;
 }
 
 section#playstation-now{
