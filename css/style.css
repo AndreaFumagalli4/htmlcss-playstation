@@ -3,6 +3,10 @@ body{
     overflow-x: hidden;
 }
 
+.position_relative{
+    position: relative;
+}
+
 /* css HEADER */
 
 section#sony{
@@ -103,12 +107,31 @@ section#playstation-now{
     background-color: #161c3b;
 }
 
+/* css FOOTER */
+
+footer{
+    font-size: .75rem;
+    color: white;
+}
+
+footer ul{
+    list-style-type: none;
+    padding-left: 1rem;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+}
+
+footer p a{
+    text-decoration: underline;
+}
+
 section#footer-bottom{
     background-color: #00439c;
 }
 
-div.foot{
-    height: 100px;
-    width: 50px;
-    background-color: magenta;
+section#footer-bottom li{
+    padding-bottom: .65rem;
 }
