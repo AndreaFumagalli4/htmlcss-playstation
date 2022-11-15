@@ -3,11 +3,13 @@ body{
     overflow-x: hidden;
 }
 
-.position_relative{
-    position: relative;
-}
-
 /* css HEADER */
+
+header{
+    position: fixed;
+    z-index: 3;
+    width: 100%;
+}
 
 section#sony{
     background-color: black;
@@ -37,9 +39,14 @@ span#accedi{
 
 header nav{
     height: 80px;
+    background-color: white;
 }
 
 /* css MAIN */
+
+main{
+    padding-top: 130px;
+}
 
 section#jumbo-top{
     background-image: url("../img/jumbo-bg.png");
