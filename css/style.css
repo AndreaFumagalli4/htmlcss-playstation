@@ -78,6 +78,11 @@ section#jumbo-middle{
     padding-top: 50px;
 }
 
+section#jumbotron-middle section.games{
+    background-color: #1f1f1f;
+    color: white;
+}
+
 div.my_ps_five{
     height: 100px;
     background-color: brown;
