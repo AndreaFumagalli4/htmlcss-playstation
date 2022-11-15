@@ -1,5 +1,6 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    overflow-x: hidden;
 }
 
 /* css HEADER */
@@ -65,7 +66,9 @@ section#playstation-five{
 }
 
 section#playstation-five button,
-section#playstation-four-market button{
+section#playstation-four-market button,
+section#playstation-plus button,
+section#playstation-now button{
     border: none;
     padding: .5rem 1rem;
     border-radius: 40px;
@@ -88,18 +91,16 @@ section#playstation-plus{
     background-color: #bebcbb;
 }
 
-div.pp{
-    height: 200px;
-    background-color: yellow;
+section#playstation-plus button{
+    background-color: #d9dadc;
+}
+
+section#playstation-now button{
+    background-color: #f5f5f5;
 }
 
 section#playstation-now{
     background-color: #161c3b;
-}
-
-div.social-media{
-    height: 100px;
-    background-color: slateblue;
 }
 
 section#footer-bottom{
