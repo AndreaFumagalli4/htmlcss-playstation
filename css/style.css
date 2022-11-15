@@ -85,6 +85,16 @@ section#playstation-now button{
     border-radius: 40px;
 }
 
+div.my_col{
+    opacity: 0.5;
+}
+
+div.my_col:hover{
+    cursor: pointer;
+    border-bottom: 3px #0d6efd solid;
+    opacity: 1;
+}
+
 section#jumbo-middle{
     background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
     background-position: center;
