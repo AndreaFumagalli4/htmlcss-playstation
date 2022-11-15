@@ -70,10 +70,12 @@ section#playstation-five button{
     border-radius: 40px;
 }
 
-section#jumbotron-middle{
-    background-color: #1f1f1f;
-    padding-bottom: 1rem;
-    margin-top: 1rem;
+section#jumbo-middle{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-size: cover;
+    color: white;
+    padding-top: 50px;
 }
 
 div.my_ps_five{
