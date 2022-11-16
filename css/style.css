@@ -64,6 +64,11 @@ button.buy_now{
     color: white;
 }
 
+section#jumbo_top_game img:hover{
+    cursor: pointer;
+    border: 3px #0d6efd solid;
+}
+
 section.title{
     text-align: center;
 }
