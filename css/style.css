@@ -25,11 +25,8 @@ div#sony-logo img{
 }
 
 img#lens{
-    width: 50%;
-}
-
-li#lens_id{
-    text-align: center;
+    height: 25px;
+    width: 25px;
 }
 
 span#accedi{
@@ -39,6 +36,10 @@ span#accedi{
 
 header nav{
     height: 80px;
+    background-color: white;
+}
+
+div#navbarSupportedContent{
     background-color: white;
 }
 
@@ -157,3 +158,4 @@ section#footer-bottom{
 section#footer-bottom li{
     padding-bottom: .65rem;
 }
+
